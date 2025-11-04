@@ -7,16 +7,15 @@ Using publicly available environmental and health datasets (2018–2023), the an
 
 
 ## Problem Statement & Objectives
-Although global studies have established strong links between PM2.5 exposure and increased hospital visits or respiratory-related mortality, local data-driven research in Nigeria is still quite limited. This research seeks to answer:
-**How does air pollution (PM2.5) correlate with respiratory disease prevalence in Nigeria’s urban centers between 2018 and 2023?**
+Although global studies have established strong links between PM2.5 exposure and increased hospital visits or respiratory-related mortality, data-driven research in Nigeria is still quite limited. Simultaneously, many urban hospitals report a steady rise in respiratory cases, yet there is limited empirical evidence connecting these trends to air quality.
 
-It also examines which cities face the highest pollution–health burden, and whether factors like population size or seasonal variations (wet and dry seasons) influence the severity of these health outcomes.
+This project seeks to fill that gap by analyzing environmental air quality data and public health records to determine whether a measurable correlation exists between PM2.5 levels and respiratory health outcomes in Nigeria’s major cities. It also examines the city with the highest pollution–health burden, and whether factors like population size or seasonal variations (wet and dry seasons) influence the severity of these health outcomes.
 
-### Objectives
-- Analyze PM2.5 levels across major Nigerian cities between 2018 and 2023.
-- Investigate their relationship with respiratory diseases such as asthma, chronic bronchitis, and COPD.
-- Identify regions with the highest combined pollution and health burden.
-- Visualize findings using statistical plots and charts to communicate patterns and trends clearly.
+### Research Questions
+1. What are the average PM2.5 levels in Lagos, Abuja, Port Harcourt, and Kano between 2018 and 2023?
+2. Is there a statistically significant relationship between PM2.5 concentrations and the prevalence of respiratory diseases such as asthma, bronchitis, and COPD?
+3. How do PM2.5 levels and health outcomes vary across different seasons and urban zones?
+4. Which population groups appear most vulnerable to air pollution–related respiratory risks?
 
 
 ## Methodology
