@@ -7,6 +7,17 @@ Using publicly available environmental and health datasets (2018–2023), the an
 
 
 ## Problem Statement & Objectives
+Although global studies have established strong links between PM2.5 exposure and increased hospital visits or respiratory-related mortality, local data-driven research in Nigeria is still quite limited. This research seeks to answer:
+**How does air pollution (PM2.5) correlate with respiratory disease prevalence in Nigeria’s urban centers between 2018 and 2023?**
+
+It also examines which cities face the highest pollution–health burden, and whether factors like population size or seasonal variations (wet and dry seasons) influence the severity of these health outcomes.
+
+### Objectives
+- Analyze PM2.5 levels across major Nigerian cities between 2018 and 2023.
+- Investigate their relationship with respiratory diseases such as asthma, chronic bronchitis, and COPD.
+- Identify regions with the highest combined pollution and health burden.
+- Visualize findings using statistical plots and charts to communicate patterns and trends clearly.
+
 
 ## Methodology
 - **Data Sources**
