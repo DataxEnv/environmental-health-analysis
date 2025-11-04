@@ -18,7 +18,7 @@
 
 ## Results & Insights
 
-## Recommendations / Implications
+## Recommendations
 
 ## Next Steps
 
