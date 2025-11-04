@@ -1,2 +1,41 @@
-# environmental-health-analysis
-A python-based research project analyzing the relationship between air pollution (PM2.5) and respiratory health outcomes in Nigeria (2010-2022).
+# Environmental Health Analysis: Linking Air Pollution to Public Health Outcomes
+
+## Abstract
+---
+
+## Problem Statement & Objectives
+
+---
+
+## Methodology
+- **Data Sources
+- **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Analysis Methods:** Data cleaning, statistical analysis, correlation, trend analysis, visualization.
+
+---
+
+## Skills & Techniques
+**Python (Pandas, NumPy, Seaborn, Matplotlib)**
+- Data wrangling, exploratory analysis, visualization
+
+**Research & Environmental Analysis**
+- Identifying sustainability/health indicators  
+- Translating results into real-world implications
+
+---
+
+## Results & Insights
+
+---
+
+## 💡 Recommendations / Implications
+
+---
+
+## Next Steps
+
+---
+
+## References
+[List data sources, research papers, or related environmental reports.]
+
