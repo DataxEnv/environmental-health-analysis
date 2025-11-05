@@ -24,8 +24,8 @@ It also examines which cities face the highest pollution–health burden, and wh
 
 ## Methodology
 ### Data Sources
-1. **Air Quality Data**: PM2.5 concentration data obtained from **open datasets** and the **WHO Air Quality Database**.
-2. **Health Data**: Respiratory disease records (asthma, bronchitis, COPD) sourced from the **Nigerian Bureau of Statistics (NBS**) and the **WHO Global Health Observatory**.
+1. **Air Quality Data**: PM2.5 concentration data obtained from **WHO Air Quality Database**.
+2. **Health Data**: Respiratory disease records sourced from **NCDC (Nigeria Centre for Disease Control)** and **WHO Global Health Observatory**.
 3. **Population Data:** City-level population estimates retrieved from the **National Bureau of Statistics** and **World Bank**.
 
 ### Tools & Libraries
