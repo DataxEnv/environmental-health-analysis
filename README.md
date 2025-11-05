@@ -24,9 +24,7 @@ It also examines which cities face the highest pollution–health burden, and wh
 
 ## Methodology
 ### Data Sources
-1. **Air Quality Data**: PM2.5 concentration data obtained from **WHO Air Quality Database**.
-2. **Health Data**: Respiratory disease records sourced from **NCDC (Nigeria Centre for Disease Control)** and **WHO Global Health Observatory**.
-3. **Population Data:** City-level population estimates retrieved from the **National Bureau of Statistics** and **World Bank**.
+The data were manually extracted and compiled from the **WHO Ambient Air Quality Database (2023)**,** OpenAQ**, and **National public health records**.
 
 ### Tools & Libraries
 All analysis was carried out using `Python` within a `Jupyter Notebook` environment.
@@ -65,4 +63,4 @@ Obani, I. P. (2025). *Air pollution and public health: Examining the correlation
 
 Okudo, C. C., Ekere, N. R., & Okoye, C. O. B. (2022). Evaluation of particulate matter (PM2.5 and PM10) concentrations in the dry and wet seasons as indices of air quality in Enugu Urban, Enugu State, Nigeria. *Journal of the Chemical Society of Nigeria, 47*(5).
 
-
+WHO. WHO Ambient Air Quality Database (update 2024). Version 6.1. Geneva, World Health Organization, 2024.
