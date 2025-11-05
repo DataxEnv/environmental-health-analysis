@@ -57,4 +57,12 @@ All analysis was carried out using `Python` within a `Jupyter Notebook` environm
 
 ## Next Steps
 
+--- 
 ## References
+Health Effects Institute. (2019). *Nigeria: State of Global Air 2019 Country Factsheet.* Health Effects Institute. Retrieved from [https://www.stateofglobalair.org/sites/default/files/soga_2019_nigeria.pdf](https://www.stateofglobalair.org/sites/default/files/soga_2019_nigeria.pdf)
+
+Obani, I. P. (2025). *Air pollution and public health: Examining the correlation between PM2.5 levels and respiratory diseases in major cities in Nigeria.* *Journal of Healthcare and Life-Science Research, 4*(4). University of Derby.
+
+Okudo, C. C., Ekere, N. R., & Okoye, C. O. B. (2022). Evaluation of particulate matter (PM2.5 and PM10) concentrations in the dry and wet seasons as indices of air quality in Enugu Urban, Enugu State, Nigeria. *Journal of the Chemical Society of Nigeria, 47*(5).
+
+
