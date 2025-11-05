@@ -20,17 +20,33 @@ It also examines which cities face the highest pollution–health burden, and wh
 
 ---
 ## Methodology
-- **Data Sources**
-- **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Analysis Methods:** Data cleaning, statistical analysis, correlation, trend analysis, visualization.
-  
-## Skills & Techniques
-**Python (Pandas, NumPy, Seaborn, Matplotlib)**
-- Data wrangling, exploratory analysis, visualization
+### Data Sources
+1. **Air Quality Data**: PM2.5 concentration data obtained from open datasets and the WHO Air Quality Database.
+2. **Health Data**: Respiratory disease records (asthma, bronchitis, COPD) sourced from the **Nigerian Bureau of Statistics (NBS**) and the **WHO Global Health Observatory**.
+3. **Population Data:** City-level population estimates retrieved from the **National Bureau of Statistics** and **World Bank**.
 
-**Research & Environmental Analysis**
-- Identifying sustainability/health indicators  
-- Translating results into real-world implications
+### Tools & Libraries
+All analysis was carried out using 'Python within a Jupyter Notebook environment.
+•	**Core Libraries**: Pandas, NumPy, Matplotlib, Seaborn, SciPy
+•	**Workflow**: Data Cleaning → Exploratory Data Analysis (EDA) → Correlation Analysis → Visualization → Insight Generation
+
+### Analysis Methods
+•	**Data Cleaning & Preprocessing**: Handling missing values, correcting inconsistencies, and standardizing units across datasets.
+•	**Exploratory Data Analysis (EDA):** Visualizing PM2.5 trends across cities and years to detect temporal or regional patterns.
+•	**Statistical Analysis:** using **Pearson correlation** and **simple linear regression** to assess the relationship between PM2.5 levels and respiratory disease rates.
+•	**Visualization:** **scatter plots** and **box plots** to compare seasonal and city-level differences.
+
+### Skills & Techniques
+1.	**Python for Data Analysis**
+  - Data wrangling and cleaning with **Pandas**
+  - Descriptive statistics and correlation analysis with **NumPy** and **SciPy**
+  - Data visualization with **Matplotlib** and **Seaborn**
+
+2.	**Environmental Research**
+  - Identifying and linking environmental and health indicators
+  - Statistical interpretation for scientific reporting
+  - Research storytelling and result translation for policy and  public health relevance
+
 
 ## Results & Insights
 
