@@ -1,7 +1,7 @@
 # Environmental Health Analysis: Exploring the Relationship Between Air Pollution (PM2.5) and Respiratory Health outcomes in Nigeria (2018-2023)
 ## Abstract
-Air pollution has become one of the most pressing public health challenged in Nigeria’s urban environments. Rapid urbanization, industrial activities, and increased vehicular movement have led to higher concentrations of fine particulate matter (PM2.5), raising the risk of respiratory health issues among people living in urban areas.
-This project explores the relationship between ambient PM2.5 levels and respiratory disease outcomes across major Nigerian cities, following the methodology described in Obani (2025): *Air Pollution and Public Health– Examining the Correlation Between PM2.5 Levels and Respiratory Diseases in Major Cities in Nigeria.*
+Air pollution has become one of the most pressing public health challenged in Nigeria’s urban environments. Rapid urban growth, industrial emissions, and increased vehicular movement have led to higher concentrations of fine particulate matter (PM2.5), raising the risk of respiratory health issues among people living in urban areas (Okudo _et al_., 2022; Health Effects Institute, 2019).
+This project explores the relationship between ambient PM2.5 levels and respiratory disease outcomes across major Nigerian cities, following the methodology described in Obani, I. P. (2025)— Air pollution and public health: Examining the correlation between PM2.5 levels and respiratory diseases in major cities in Nigeria._
 
 Using publicly available environmental air quality data and public health records (2018–2023), the analysis explores how PM2.5 exposure correlates with the incidence of respiratory diseases such as asthma, chronic bronchitis, and chronic obstructive pulmonary disease (COPD). Statistical and visualization methods are used to identify links between pollution and health, highlight high-risk regions, and draw attention to vulnerable populations.
 
@@ -28,7 +28,7 @@ It also examines which cities face the highest pollution–health burden, and wh
 3. **Population Data:** City-level population estimates retrieved from the **National Bureau of Statistics** and **World Bank**.
 
 ### Tools & Libraries
-All analysis was carried out using 'Python within a Jupyter Notebook environment.
+All analysis was carried out using `Python` within a `Jupyter Notebook` environment.
 - **Core Libraries**: Pandas, NumPy, Matplotlib, Seaborn, SciPy
 - **Workflow**: Data Cleaning → Exploratory Data Analysis (EDA) → Correlation Analysis → Visualization → Insight Generation
 
