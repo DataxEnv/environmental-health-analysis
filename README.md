@@ -2,9 +2,9 @@
 ## Abstract
 Air pollution has become one of the most pressing public health challenged in Nigeria’s urban environments. Rapid urban growth, industrial emissions, and increased vehicular movement have led to higher concentrations of fine particulate matter (PM2.5), raising the risk of respiratory health issues among people living in urban areas (Okudo _et al_., 2022; Health Effects Institute, 2019).
 
-This project explores the relationship between ambient PM2.5 levels and respiratory disease outcomes across major Nigerian cities, following the methodology described in Obani I. P. (2025)— _Air pollution and public health: Examining the correlation between PM2.5 levels and respiratory diseases in major cities in Nigeria._
+This project explores the relationship between ambient PM2.5 levels and respiratory disease outcomes across major Nigerian cities, following the methodology described in Obani I. P. (2025)— *Air pollution and public health: Examining the correlation between PM2.5 levels and respiratory diseases in major cities in Nigeria.*
 
-Using publicly available environmental air quality data and public health records (2018–2023), the analysis explores how PM2.5 exposure correlates with the incidence of respiratory diseases such as asthma, chronic bronchitis, and chronic obstructive pulmonary disease (COPD). Statistical and visualization methods are used to identify links between pollution and health, highlight high-risk regions, and draw attention to vulnerable populations.
+Using publicly available environmental air quality data and public health records (2018–2023), the analysis investigates how PM2.5 exposure correlates with the incidence of respiratory diseases such as asthma, chronic bronchitis, and chronic obstructive pulmonary disease (COPD). Statistical and visualization methods are used to identify links between pollution and health, highlight high-risk regions, and draw attention to vulnerable populations.
 
 ---
 
