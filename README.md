@@ -1,4 +1,4 @@
-# Environmental Health Analysis: Relationship Between Air Pollution (PM2.5) and the prevalence of respiratory diseases in Major Nigerian cities (2018-2023)
+# Environmental Health Analysis: Correlation Between Air Pollution (PM2.5) and the prevalence of respiratory diseases in Major Nigerian cities (2018-2023)
 
 ## Abstract
 Air pollution has become one of the most pressing public health challenged in Nigeria’s urban environments. Rapid urban growth, industrial emissions, and increased vehicular movement have led to higher concentrations of fine particulate matter (PM2.5), raising the risk of respiratory health issues among people living in urban areas (Okudo _et al_., 2022; Health Effects Institute, 2019).
@@ -27,7 +27,7 @@ The data were manually extracted and compiled from the **WHO Ambient Air Quality
 
 ### Tools & Libraries
 All analysis was carried out using `Python` within a `Jupyter Notebook` environment.
-- **Core Libraries**: Pandas, NumPy, Matplotlib, Seaborn, SciPy
+- **Core Libraries**: Pandas, Matplotlib, Seaborn, and scipy.
 - **Workflow**: Data Cleaning → Exploratory Data Analysis (EDA) → Correlation Analysis  → Results
   
 ### Analysis Methods
@@ -39,7 +39,7 @@ All analysis was carried out using `Python` within a `Jupyter Notebook` environm
 ### Skills & Techniques
 1.	**Python for Data Analysis**
     - Data wrangling and cleaning with **Pandas**
-    - Descriptive statistics and correlation analysis with **NumPy** and **SciPy**
+    - correlation analysis with **SciPy..stats**
     - Data visualization with **Matplotlib** and **Seaborn**
 
 2.	**Environmental Research**
@@ -58,7 +58,7 @@ It’s worth noting that all cities still exceed the WHO air quality guideline (
 These results aligns with global public health evidence: as PM2.5 levels increase, so do respiratory health problems like asthma, bronchitis, and COPD.
 
 In conclusion, **higher pollution means higher health risks**. There’s a clear need for stronger air quality control policies, improved public health monitoring, and more awareness about the health impacts of urban air pollution in Nigeria.
-Average PM2.5 concentrations by City (2018–2023)
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/aee4605c-cc14-4892-af85-49dc14e4f33f" />
 
 ## Next Steps
 - Expand the dataset to more cities and years
