@@ -1,9 +1,9 @@
 # Environmental Health Analysis: Correlation Between Air Pollution (PM₂.₅) and the prevalence of respiratory diseases in Major Nigerian cities (2018-2023)
 
 ## Abstract
-Air pollution has become one of the most pressing public health challenged in Nigeria’s urban environments. Rapid urban growth, industrial emissions, and increased vehicular movement have led to higher concentrations of fine particulate matter (PM2.5), raising the risk of respiratory health issues among people living in urban areas (Okudo _et al_., 2022; Health Effects Institute, 2019).
+Air pollution has become one of the most pressing public health challenged in Nigeria’s urban environments. Rapid urban growth, industrial emissions, and increased vehicular movement have led to higher concentrations of fine particulate matter (PM₂.₅), raising the risk of respiratory health issues among people living in urban areas (Okudo _et al_., 2022; Health Effects Institute, 2019).
 
-This project explores the relationship between ambient PM2.5 levels and respiratory disease outcomes across major Nigerian cities, following the methodology described in Obani I. P. (2025)— *Air pollution and public health: Examining the correlation between PM2.5 levels and respiratory diseases in major cities in Nigeria.*
+This project explores the relationship between ambient PM2.5 levels and respiratory disease outcomes across major Nigerian cities, following the methodology described in Obani I. P. (2025)— *Air pollution and public health: Examining the correlation between PM₂.₅ levels and respiratory diseases in major cities in Nigeria.*
 
 Using publicly available environmental air quality data and public health records (2018–2023), the analysis investigates how PM2.5 exposure correlates with the incidence of respiratory diseases such as asthma, chronic bronchitis, and chronic obstructive pulmonary disease (COPD). 
 
@@ -15,9 +15,9 @@ It also examines which cities have the highest pollution–health burden
 
 
 ### Research Objectives
-1. To analyze the distribution and yearly trend of PM2.5 concentrations in Lagos, Abuja, Port Harcourt, and Kano between 2018 and 2023.
+1. To analyze the distribution and yearly trend of PM₂.₅ concentrations in Lagos, Abuja, Port Harcourt, and Kano between 2018 and 2023.
 2. To identify the cities with the highest PM2.5 exposure.
-3. To examine the relationship between PM2.5 levels and respiratory disease rates, using correlation and visual analysis.
+3. To examine the relationship between PM₂.₅ levels and respiratory disease rates, using correlation and visual analysis.
 
 
 ## Methodology
@@ -48,13 +48,13 @@ All analysis was carried out using `Python` within a `Jupyter Notebook` environm
 
 
 ## Results & Recommendations
-The analysis showed a **strong positive correlation (r = 0.92)** between annual PM2.5 concentration and respiratory disease rates across the major Nigerian cities (2018–2023). In simple terms, cities with higher air pollution levels also recorded higher rates of respiratory illnesses.
+The analysis showed a **strong positive correlation (r = 0.92)** between annual PM₂.₅ concentration and respiratory disease rates across the major Nigerian cities (2018–2023). In simple terms, cities with higher air pollution levels also recorded higher rates of respiratory illnesses.
 
-**Port Harcourt** and **Lagos** showed the highest pollution and respiratory case rates. Port Harcourt’s extreme pollution is likely due to its *industrial and oil-related activities*, reflecting the city’s well-known soot pollution problem. For Lagos, *traffic congestion* and *population density* remain major contributors. In contrast, **Kano** consistently had the lowest PM2.5 levels.
+**Port Harcourt** and **Lagos** showed the highest pollution and respiratory case rates. Port Harcourt’s extreme pollution is likely due to its *industrial and oil-related activities*, reflecting the city’s well-known soot pollution problem. For Lagos, *traffic congestion* and *population density* remain major contributors. In contrast, **Kano** consistently had the lowest PM₂.₅ levels.
 
 It’s worth noting that all cities still exceed the **WHO air quality guideline (5 µg/m³)**, showing how widespread the urban air quality challenge is. 
 
-These findings aligns with global public health evidence: as PM2.5 levels increase, so do respiratory health problems like asthma, bronchitis, and COPD.
+These findings aligns with global public health evidence: as PM₂.₅ levels increase, so do respiratory health problems like asthma, bronchitis, and COPD.
 
 In conclusion, **higher pollution means higher health risks**. There’s a clear need for stronger air quality control policies, improved public health monitoring, and more awareness about the health impacts of urban air pollution in Nigeria.
 
