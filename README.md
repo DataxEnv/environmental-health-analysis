@@ -18,7 +18,6 @@ It also examines which cities have the highest pollution–health burden
 1. To analyze the distribution and yearly trend of PM2.5 concentrations in Lagos, Abuja, Port Harcourt, and Kano between 2018 and 2023.
 2. To identify the cities with the highest PM2.5 exposure.
 3. To examine the relationship between PM2.5 levels and respiratory disease rates, using correlation and visual analysis.
-4. To assess how changes in PM2.5 concentration influence respiratory health outcomes, highlighting the strength and direction of their association.
 
 
 ## Methodology
@@ -39,7 +38,7 @@ All analysis was carried out using `Python` within a `Jupyter Notebook` environm
 ### Skills & Techniques
 1.	**Python for Data Analysis**
     - Data wrangling and cleaning with **Pandas**
-    - correlation analysis with **SciPy..stats**
+    - correlation analysis with **SciPy.stats**
     - Data visualization with **Matplotlib** and **Seaborn**
 
 2.	**Environmental Research**
@@ -49,16 +48,24 @@ All analysis was carried out using `Python` within a `Jupyter Notebook` environm
 
 
 ## Results & Recommendations
-The analysis showed a strong positive correlation (r = 0.92) between annual PM2.5 concentration and respiratory disease rates across major Nigerian cities (2018–2023). In simple terms, cities with higher air pollution levels also recorded higher rates of respiratory illnesses.
+The analysis showed a **strong positive correlation (r = 0.92)** between annual PM2.5 concentration and respiratory disease rates across the major Nigerian cities (2018–2023). In simple terms, cities with higher air pollution levels also recorded higher rates of respiratory illnesses.
 
-**Port Harcourt** and **Lagos** had the highest pollution and respiratory case rates. Port Harcourt’s extreme PM2.5 levels is likely due to its *industrial and oil-related activities*, which reflects the city’s well-documented soot pollution problem. For Lagos, **traffic congestion** and **population density** continue to be it's major factors. In contrast, Abuja had the lowest PM2.5 levels during the study period. 
+**Port Harcourt** and **Lagos** showed the highest pollution and respiratory case rates. Port Harcourt’s extreme pollution is likely due to its *industrial and oil-related activities*, reflecting the city’s well-known soot pollution problem. For Lagos, *traffic congestion* and *population density* remain major contributors. In contrast, **Kano** consistently had the lowest PM2.5 levels.
 
-It’s worth noting that all cities still exceed the WHO air quality guideline (5 µg/m³), showing how widespread the urban air quality challenge is. 
+It’s worth noting that all cities still exceed the **WHO air quality guideline (5 µg/m³)**, showing how widespread the urban air quality challenge is. 
 
-These results aligns with global public health evidence: as PM2.5 levels increase, so do respiratory health problems like asthma, bronchitis, and COPD.
+These findings aligns with global public health evidence: as PM2.5 levels increase, so do respiratory health problems like asthma, bronchitis, and COPD.
 
 In conclusion, **higher pollution means higher health risks**. There’s a clear need for stronger air quality control policies, improved public health monitoring, and more awareness about the health impacts of urban air pollution in Nigeria.
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/aee4605c-cc14-4892-af85-49dc14e4f33f" />
+
+<p align="center">
+  <img width="500" alt="PM2.5 by city" src="https://github.com/user-attachments/assets/aee4605c-cc14-4892-af85-49dc14e4f33f" />
+</p>
+
+<p align="center">
+  <img width="500" alt="PM2.5 vs Respiratory rate" src="https://github.com/user-attachments/assets/1d79e5d5-2744-480f-8267-36e7ce832a2e" />
+</p>
+
 
 ## Next Steps
 - Expand the dataset to more cities and years
