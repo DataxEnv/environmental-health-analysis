@@ -1,4 +1,4 @@
-# Environmental Health Analysis: Correlation Between Air Pollution (PM2.5) and the prevalence of respiratory diseases in Major Nigerian cities (2018-2023)
+# Environmental Health Analysis: Correlation Between Air Pollution (PM₂.₅) and the prevalence of respiratory diseases in Major Nigerian cities (2018-2023)
 
 ## Abstract
 Air pollution has become one of the most pressing public health challenged in Nigeria’s urban environments. Rapid urban growth, industrial emissions, and increased vehicular movement have led to higher concentrations of fine particulate matter (PM2.5), raising the risk of respiratory health issues among people living in urban areas (Okudo _et al_., 2022; Health Effects Institute, 2019).
