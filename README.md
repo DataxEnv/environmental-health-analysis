@@ -59,12 +59,12 @@ These findings aligns with global public health evidence: as PM₂.₅ levels in
 In conclusion, **higher pollution means higher health risks**. There’s a clear need for stronger air quality control policies, improved public health monitoring, and more awareness about the health impacts of urban air pollution in Nigeria.
 
 <p align="center">
-  <img width="500" alt="PM2.5 by city" src="https://github.com/user-attachments/assets/aee4605c-cc14-4892-af85-49dc14e4f33f" />
-</p>
+  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/4ab73f61-03ed-43e3-8d0d-eabcf9e36fc9" />
+
 
 <p align="center">
-  <img width="500" alt="PM2.5 vs Respiratory rate" src="https://github.com/user-attachments/assets/1d79e5d5-2744-480f-8267-36e7ce832a2e" />
-</p>
+  <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/b37a9049-e978-44c6-9ec3-641001ccc435" />
+
 
 
 ## Next Steps
