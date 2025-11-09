@@ -83,4 +83,5 @@ Okudo, C. C., Ekere, N. R., & Okoye, C. O. B. (2022). Evaluation of particulate 
 
 WHO. WHO Ambient Air Quality Database (update 2024). Version 6.1. Geneva, World Health Organization, 2024.
 
-project by *Olamide Bankole- Research & Data Analysis.*
+---
+Project by *Olamide Bankole- Environmental Research & Data Analysis.*
